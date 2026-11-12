@@ -1,0 +1,25 @@
+
+# Secret configuration
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# Logs
+*.log
+
+# Generated videos
+videos/
+*.mp4
+
+# Personal photos
+foto/*
+!foto/.gitkeep
+
+# Temporary files
+*.tmp
+*.bak

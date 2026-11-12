@@ -1,7 +1,7 @@
 
-# AutuFB
+# AutoReels
 
-AutuFB adalah script otomatis untuk membuat video Facebook Reels dari foto dan membantu menjadwalkan publikasi ke Facebook Page.
+AutoReels adalah script otomatis untuk membuat video Facebook Reels dari foto dan membantu menjadwalkan publikasi ke Facebook Page.
 
 ## Fitur
 
@@ -42,13 +42,13 @@ pkg install python ffmpeg git -y
 Clone repository:
 
 ```bash
-git clone https://github.com/USERNAME/AutuFB.git
+git clone https://github.com/VEOCE/AutoReels.git
 ```
 
 Masuk folder:
 
 ```bash
-cd AutuFB
+cd AutoReels
 ```
 
 Pasang library:

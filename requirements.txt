@@ -1,0 +1,4 @@
+
+requests
+python-dotenv
+APScheduler>=3.10,<4.0
